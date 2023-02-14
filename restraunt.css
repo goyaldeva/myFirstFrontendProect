@@ -1,0 +1,468 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+#navItem1 {
+    color: #323f4b;
+    font-family: Roboto;
+}
+
+
+#navItem2 {
+    color: #323f4b;
+    font-family: Roboto;
+}
+
+
+#navItem3 {
+    color: #323f4b;
+    font-family: Roboto;
+}
+
+.food-logo {
+    width: 250px;
+    height: 70px;
+}
+
+#navItem4 {
+    color: #323f4b;
+    font-family: Roboto;
+}
+
+.button1 {
+    background-color: white;
+    border-radius: 22px;
+    border-width: 3px;
+    border-color: grey;
+    height: 40px;
+    font-size: 16px;
+}
+
+.button2 {
+    background-color: #FF7629;
+    color: white;
+    font-size: 16px;
+    border-radius: 22px;
+    border-width: 0px;
+    height: 40px;
+}
+
+.heading {
+    font-family: DM Sans;
+    font-weight: 700;
+
+}
+
+.next-heading {
+
+    color: #FF7629;
+    font-family: DM Sans;
+    font-weight: 700;
+}
+
+.para {
+    font-size: 18px;
+    color: #757575;
+    width: 70%;
+}
+
+.image {
+    width: 400px;
+    border-radius: 50px;
+    padding-left: 40px;
+    padding-right: 60px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-right: 500px;
+
+    margin-right: 50px;
+}
+
+.image-back {
+    background-color: #FF7629;
+    margin-right: 20px;
+    margin-left: 40px;
+    width: 390px;
+
+}
+
+
+.second-para {
+    font-size: 40px;
+}
+
+.third-para {
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 25px;
+    text-align: center;
+    margin-left: 50px;
+}
+
+.card {
+    border-style: solid;
+    border-width: 3px;
+    width: 290px;
+    margin-left: 40px;
+
+}
+
+.logo {
+    width: 180px;
+    margin-left: 35px;
+    padding-top: 10px;
+}
+
+.card-para {
+    width: 200px;
+    padding-left: 30px;
+    padding-right: 10px;
+    color: #676767;
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 20px;
+    text-align: center;
+}
+
+.card-heading {
+    color: #FF7629;
+}
+
+.image-second {
+    width: 460px;
+    border-radius: 30px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.second-card {
+
+    background-color: #ffffff;
+
+    padding-left: 50px;
+    padding-right: 20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+    border-radius: 25px;
+
+    font-family: DM Sans;
+    font-weight: 500;
+}
+
+.third-heading {
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 32px;
+    text-align: center;
+    margin-top: 15px;
+
+}
+
+.next-para {
+    font-size: 15px;
+    font-family: DM Sans;
+    font-weight: 500;
+    color: #727272;
+    text-align: center;
+
+
+}
+
+.image-one {
+    background-image: url("https://atri-apps.github.io/restaurant_website/app-assets/616dca333c0bd679a77bec56_classic-burger-restaurante-x-template-p-500.jpeg");
+    width: 250px;
+    height: 250px;
+    border-radius: 30px;
+}
+
+.image-card {
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 18px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #fffbfb;
+    position: relative;
+    border-radius: 15px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    left: 60px;
+    top: 20px;
+    margin-left: 40px;
+    width: 120px;
+}
+
+.image-para {
+    width: 250px;
+    height: 50px;
+    max-height: 100px;
+    font-family: DM Sans;
+    font-weight: 500;
+    color: #686868;
+    font-size: 16px;
+    text-align: center;
+}
+
+.image-two {
+    background-image: url("https://atri-apps.github.io/restaurant_website/app-assets/616dc9ba43f4163d5f7b436e_chocolate-milkshake-restaurante-x-template-p-500.jpeg");
+    width: 250px;
+    height: 250px;
+    border-radius: 30px;
+}
+
+.image-heading {
+    font-size: 30px;
+}
+
+.image-three {
+    background-image: url("https://atri-apps.github.io/restaurant_website/app-assets/616dc9aac480169bcc819e69_classic-fries-restaurante-x-template-p-500.jpeg");
+    width: 250px;
+    height: 250px;
+    border-radius: 30px;
+
+}
+
+.image-four {
+    background-image: url("https://atri-apps.github.io/restaurant_website/app-assets/616dc56043f416c4db7b3322_pancakes-restaurante-x-template-p-500.jpeg");
+    width: 250px;
+    height: 250px;
+    border-radius: 30px;
+
+}
+
+.image-five {
+    background-image: url("https://atri-apps.github.io/restaurant_website/app-assets/616dc50743f41639377b2fd8_ice-cream-restaurante-x-template-p-500.jpeg");
+    width: 250px;
+    height: 250px;
+    border-radius: 30px;
+
+}
+
+.image-six {
+    background-image: url("https://atri-apps.github.io/restaurant_website/app-assets/616dc4d28ae55806547e5dba_chicken-burger-restaurante-x-template-p-500.jpeg");
+    width: 250px;
+    height: 250px;
+    border-radius: 30px;
+
+}
+
+.image-seven {
+    background-image: url("https://atri-apps.github.io/restaurant_website/app-assets/616dc4908009251d2f5ac06b_egg-toast-restaurante-x-template-p-500.jpeg");
+    width: 250px;
+    height: 250px;
+    border-radius: 30px;
+
+}
+
+.image-eight {
+    background-image: url("https://atri-apps.github.io/restaurant_website/app-assets/616dc414d54d4e45ccac841f_regular-soda-restaurante-x-template-p-500.jpeg");
+    width: 250px;
+    height: 250px;
+    border-radius: 30px;
+
+}
+
+.bg-color {
+    background-color: #FF7629;
+    align-items: flex-start;
+    justify-content: center;
+    padding-top: 90px;
+    padding-bottom: 100px;
+
+    padding-left: 150px;
+
+    box-sizing: border-box;
+}
+
+.button3 {
+    background-color: white;
+    border-radius: 50px;
+    font-size: 16px;
+    border-width: 0px;
+}
+
+.button4 {
+    background-color: #fffbfb;
+    border-radius: 50px;
+    font-size: 16px;
+    border-color: white;
+    color: white;
+}
+
+.head {
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 32px;
+}
+
+.para-two {
+
+    font-family: DM Sans;
+    font-weight: 500;
+    color: #727272;
+}
+
+.client-card {
+
+    padding-bottom: 40px;
+    flex-direction: column;
+
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-right: 50px;
+    box-sizing: border-box;
+
+    border-radius: 25px;
+    border-style: solid;
+    border-color: #d5d5d5;
+
+}
+
+.star-image {
+    width: 30px;
+    height: 30px;
+}
+
+.img-logo {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+
+}
+
+.img-head {
+    font-size: 20px;
+}
+
+.card-seven {
+    background-color: pink;
+    background-size: cover;
+}
+
+.pizza-card {
+    margin: 10px;
+    display: flex;
+    width: 70%;
+    flex-direction: column;
+    background-color: #fffefe;
+    row-gap: 10px;
+    border-radius: 35px;
+}
+
+.pizza-card-one {
+
+    width: 40%;
+    flex-direction: column;
+    background-color: #fffefe;
+    margin: 3px;
+    border-radius: 35px;
+    padding-bottom: 20px;
+}
+
+.pizza-img {
+    width: 100%;
+    border-top-left-radius: 35px;
+    border-top-right-radius: 35px;
+    height: 70%;
+
+}
+
+.pizza-date {
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 15px;
+    color: #737373;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 10px;
+}
+
+.articles-head {
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 24px;
+    padding-left: 20px;
+    padding-right: 10px;
+
+}
+
+.next-head {
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 34px;
+    align-self: auto;
+}
+
+.logo-local {
+    width: 30px;
+    height: 30px;
+
+}
+
+.location-para {
+    font-family: DM Sans;
+    font-weight: 500;
+    color: #717070;
+
+}
+
+.bg-container {
+    background-color: #FF7629;
+    align-items: flex-start;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.bg-card {
+    background-color: white;
+    border-style: solid;
+    margin: 20px;
+    border-radius: 25px;
+    border-width: 2px;
+}
+
+.form-control {
+    box-sizing: border-box;
+
+    padding-top: 11px;
+    padding-left: 15px;
+    padding-bottom: 11px;
+    padding-right: 15px;
+    color: #000000d9;
+    font-size: 14px;
+    background-color: #fff;
+    background-image: none;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #d9d9d9;
+    border-radius: 20px;
+}
+
+.follow {
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 32px;
+}
+
+.follow-image {
+    width: 300px;
+    height: 300px;
+    border-radius: 35px;
+    margin: 30px;
+}
+
+.img-coca {
+    width: 145px;
+    height: 145px;
+    border-radius: 25px;
+}
+
+.rating-para {
+    font-size: 15px;
+    font-family: DM Sans;
+    font-weight: 700;
+    color: #6a6868;
+}
+
+.list-style {
+    list-style-type: none;
+}
